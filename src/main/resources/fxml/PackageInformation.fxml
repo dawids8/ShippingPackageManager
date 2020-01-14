@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:id="informationAnchorPane" prefHeight="360.0" prefWidth="732.0"
+            stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/8.0.171"
+            fx:controller="controllers.PackageInformationController">
+    <children>
+        <Button fx:id="closeWindow" layoutX="324.0" layoutY="321.0" mnemonicParsing="false"
+                onAction="#closeInformation" prefHeight="25.0" prefWidth="87.0" text="Close"/>
+        <Label fx:id="shippingNumberInfLabel" layoutX="30.0" layoutY="31.0" text="Shipping Number">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="customerInfLabel" layoutX="405.0" layoutY="31.0" text="Customer">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="addressInfLabel" layoutX="30.0" layoutY="109.0" text="Address">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="contentInfLabel" layoutX="30.0" layoutY="190.0" text="Content">
+            <font>
+                <Font size="14.0"/>
+            </font>
+        </Label>
+        <Label fx:id="shippingNumberLabel" alignment="CENTER" layoutX="30.0" layoutY="60.0" prefHeight="19.0"
+               prefWidth="283.0" textAlignment="CENTER">
+            <font>
+                <Font size="13.0"/>
+            </font>
+        </Label>
+        <Label fx:id="customerNameLabel" alignment="CENTER" layoutX="405.0" layoutY="60.0" prefHeight="19.0"
+               prefWidth="267.0" textAlignment="CENTER">
+            <font>
+                <Font size="13.0"/>
+            </font>
+        </Label>
+        <Label fx:id="addressLabel" alignment="CENTER" layoutX="30.0" layoutY="136.0" prefHeight="45.0"
+               prefWidth="675.0" textAlignment="CENTER" wrapText="true">
+            <font>
+                <Font size="13.0"/>
+            </font>
+        </Label>
+        <Label fx:id="contentLabel" alignment="TOP_LEFT" layoutX="30.0" layoutY="217.0" prefHeight="90.0"
+               prefWidth="675.0" textAlignment="JUSTIFY" wrapText="true">
+            <font>
+                <Font size="13.0"/>
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

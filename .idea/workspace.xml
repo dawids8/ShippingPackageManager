@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a3137d3-81a3-4e12-b629-32ab950e578f" name="Default Changelist" comment="New pictures uploaded, and names of variables changed" />
+    <list id="a5c9dc28-e39f-443f-ba87-f8855e660d97" name="Revert &quot;New classes added and packages&quot;" comment="Revert &quot;New classes added and packages&quot;&#10;&#10;This reverts commit 02cd23ff" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="packages: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="userLogin: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydatabase.db" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaFXApplication" />
+        <option value="Enum" />
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="dawid &lt;dawids8788@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\dawid\Documents\Mecze\DeliverySoftware" />
+        <option value="C:\Users\dawid\Documents\Mecze\DeliverySoftware\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UITSxfomX9zNFWtrmEKi5bruEb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dawid\Documents\Mecze\DeliverySoftware\screenshots" />
+      <recent name="C:\Users\dawid\Documents\Mecze\DeliverySoftware\src\main\resources\css" />
+      <recent name="C:\Users\dawid\Documents\Mecze\DeliverySoftware\src\main\resources\pictures" />
+      <recent name="C:\Users\dawid\Documents\Mecze\DeliverySoftware\src\main\resources\fxml" />
+      <recent name="C:\Users\dawid\Documents\Mecze\DeliverySoftware\src\main\Stylesheet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GraphicInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.GraphicInterface" />
+      <module name="ShippingPackageManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ShippingPackageManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DeliverySoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.Main" />
+      <module name="DeliverySoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controllers.Main" />
+      <module name="DeliverySoftware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in DeliverySoftware" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ShippingPackageManager" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GraphicInterface" />
+        <item itemvalue="JUnit.All in DeliverySoftware" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\dawid\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a3137d3-81a3-4e12-b629-32ab950e578f" name="Default Changelist" comment="" />
+      <created>1575043112289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575043112289</updated>
+      <workItem from="1575043115414" duration="9040000" />
+      <workItem from="1575115116981" duration="13661000" />
+      <workItem from="1575196689510" duration="19467000" />
+      <workItem from="1575223981140" duration="1211000" />
+      <workItem from="1575285502655" duration="12589000" />
+      <workItem from="1575372293037" duration="9406000" />
+      <workItem from="1575805693597" duration="1329000" />
+      <workItem from="1575815427785" duration="346000" />
+      <workItem from="1575886331341" duration="8259000" />
+      <workItem from="1575914993917" duration="811000" />
+      <workItem from="1575972582204" duration="19571000" />
+      <workItem from="1576058561984" duration="24772000" />
+      <workItem from="1576096779405" duration="35000" />
+      <workItem from="1576099546487" duration="3962000" />
+      <workItem from="1576141008538" duration="9582000" />
+      <workItem from="1576267930250" duration="214000" />
+      <workItem from="1576318725724" duration="23411000" />
+      <workItem from="1576406014100" duration="10372000" />
+      <workItem from="1576487713939" duration="11983000" />
+      <workItem from="1576578311363" duration="1976000" />
+      <workItem from="1576586508015" duration="13715000" />
+      <workItem from="1576658047546" duration="18210000" />
+      <workItem from="1576858280257" duration="197000" />
+      <workItem from="1576865225964" duration="763000" />
+      <workItem from="1576869347666" duration="11000" />
+      <workItem from="1576932690580" duration="7590000" />
+      <workItem from="1577091985394" duration="25053000" />
+      <workItem from="1577129731260" duration="2888000" />
+      <workItem from="1577266356497" duration="768000" />
+      <workItem from="1577635477363" duration="8675000" />
+      <workItem from="1577703583252" duration="325000" />
+      <workItem from="1577716020212" duration="6032000" />
+      <workItem from="1577725407620" duration="89000" />
+      <workItem from="1577741363589" duration="3946000" />
+      <workItem from="1577971191938" duration="11431000" />
+      <workItem from="1578082801621" duration="29000" />
+      <workItem from="1578420039205" duration="611000" />
+      <workItem from="1578491851263" duration="5486000" />
+      <workItem from="1578568818136" duration="23544000" />
+      <workItem from="1578658029602" duration="12562000" />
+      <workItem from="1578677479685" duration="199000" />
+      <workItem from="1578677693546" duration="178000" />
+      <workItem from="1578677903316" duration="222000" />
+      <workItem from="1578678337763" duration="1174000" />
+      <workItem from="1578679556771" duration="7000" />
+      <workItem from="1578687512481" duration="896000" />
+      <workItem from="1578689146753" duration="120000" />
+      <workItem from="1578739179422" duration="4189000" />
+      <workItem from="1578773491289" duration="1039000" />
+      <workItem from="1578815719017" duration="533000" />
+      <workItem from="1578921906952" duration="5631000" />
+      <workItem from="1578952833187" duration="52000" />
+      <workItem from="1578953768330" duration="814000" />
+      <workItem from="1578956259644" duration="53000" />
+      <workItem from="1578956580226" duration="487000" />
+      <workItem from="1579011012329" duration="35000" />
+      <workItem from="1579019187393" duration="446000" />
+      <workItem from="1579019653096" duration="293000" />
+    </task>
+    <task id="LOCAL-00001" summary="Screenshots package added with &quot;.png&quot; files">
+      <created>1578676260867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578676260867</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New classes added and packages">
+      <created>1578677935761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578677935761</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New classes added and packages">
+      <created>1578678688281</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578678688281</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New classes added and packages">
+      <created>1578678850442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578678850442</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New pictures uploaded, and names of variables changed">
+      <created>1578774022076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578774022076</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/dawid/Documents/Mecze/DeliverySoftware/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Add new classes and new packages&#10;Code cleanup" />
+    <MESSAGE value="Screenshots package added with &quot;.png&quot; files" />
+    <MESSAGE value="New classes added and packages" />
+    <MESSAGE value="New pictures uploaded, and names of variables changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="New pictures uploaded, and names of variables changed" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).sql" language="JAVA" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).closeOnCompletion" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).closeOnCompletion" language="JAVA" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).closeOnCompletion" language="JAVA" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).batch" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+        <watch expression="deliveryPackage" />
+        <watch expression="deliveryPackage" language="JAVA" />
+        <watch expression="((JDBC4PreparedStatement)preparedStatement).sql" custom="org.sqlite.jdbc4.JDBC4PreparedStatement" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

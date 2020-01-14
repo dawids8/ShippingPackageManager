@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<Pane xmlns:fx="http://javafx.com/fxml/1" fx:id="logoPane" accessibleRole="IMAGE_VIEW" prefHeight="275.0"
+      prefWidth="291.0" stylesheets="@../css/style.css"
+      xmlns="http://javafx.com/javafx/8.0.171">
+    <children>
+        <ImageView fx:id="imageView" depthTest="DISABLE" fitHeight="291.0" fitWidth="291.0" nodeOrientation="INHERIT"
+                   pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@../pictures/logo.png"/>
+            </image>
+        </ImageView>
+    </children>
+</Pane>

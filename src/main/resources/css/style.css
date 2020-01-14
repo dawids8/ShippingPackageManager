@@ -1,0 +1,90 @@
+AnchorPane, #logoPane {
+    -fx-background-color: #DEDEDE;
+}
+
+.table-view, #tabPaneMW {
+    -fx-background-color: #E5E5E4;
+}
+
+.button {
+    -fx-background-color: #B3B3B3;
+}
+
+.text-field:focused {
+    -fx-background-color: #E8DAB6;
+    -fx-prompt-text-fill: #AEAEAE;
+}
+
+.text-field {
+    -fx-background-color: white;
+    -fx-text-fill: #6B6B6B;
+}
+
+.tab, .combo-box {
+    -fx-background-color: #C8C8C8;
+}
+
+.tab:selected {
+    -fx-background-color: #E8DAB6;
+}
+
+.tab-label {
+    -fx-font-weight: bold;
+}
+
+.column-header, .column-header-background {
+    -fx-text-origin: center;
+    -fx-font-size: 12px;
+}
+
+#isUserExist, #loginLabel, #informationLabel {
+    -fx-text-fill: #EA5757;
+    -fx-font-weight: bold;
+    -fx-font-size: 16;
+}
+
+#searchLabel, #shippingNumberInfLabel, #customerInfLabel, #addressInfLabel, #contentInfLabel {
+    -fx-text-fill: #6B6B6B;
+    -fx-font-weight: bold;
+}
+
+#shippingNumberLabel, #customerNameLabel, #addressLabel, #contentLabel {
+    -fx-background-color: white;
+    -fx-text-fill: #6B6B6B;
+    -fx-font-weight: bold;
+}
+
+#shippingNumberLabel, #customerNameLabel {
+    -fx-pref-width: 300;
+    -fx-pref-height: 10;
+}
+
+#shippingNumberColumnShipped, #shippingNumberColumnDelivered {
+    -fx-pref-width: 130;
+    -fx-pref-height: 22;
+}
+
+#addressColumnShipped, #addressColumnDelivered {
+    -fx-pref-width: 215;
+    -fx-pref-height: 22;
+}
+
+#customerColumnShipped, #customerColumnDelivered {
+    -fx-pref-width: 180;
+    -fx-pref-height: 22;
+}
+
+#contentColumnShipped, #contentColumnDelivered {
+    -fx-pref-width: 165;
+    -fx-pref-height: 22;
+}
+
+#priceColumnShipped, #priceColumnDelivered, #weightColumnShipped, #weightColumnDelivered, #companyColumnShipped, #companyColumnDelivered {
+    -fx-pref-width: 100;
+    -fx-pref-height: 22;
+}
+
+#dateColumnShipped, #dateColumnDelivered {
+    -fx-pref-width: 140;
+    -fx-pref-height: 22;
+}

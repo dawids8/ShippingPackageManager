@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" prefHeight="397.0" prefWidth="500.0"
+            stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/8.0.171"
+            fx:controller="controllers.PackageWindowController">
+
+    <Button fx:id="editButton" layoutX="359.0" layoutY="358.0" mnemonicParsing="false" onAction="#editPackageValues"
+            prefHeight="25.0" prefWidth="127.0" text="Edit"/>
+    <TextField fx:id="shippingNumberTF" layoutX="111.0" layoutY="23.0" prefHeight="25.0" prefWidth="278.0"
+               promptText="Shipping number"/>
+    <TextField fx:id="addressTF" layoutX="111.0" layoutY="107.0" prefHeight="25.0" prefWidth="278.0"
+               promptText="Address"/>
+    <TextField fx:id="customerTF" layoutX="111.0" layoutY="151.0" prefHeight="25.0" prefWidth="278.0"
+               promptText="Customer"/>
+    <TextField fx:id="contentTF" layoutX="111.0" layoutY="190.0" prefHeight="62.0" prefWidth="278.0"
+               promptText="Content"/>
+    <TextField fx:id="weightTF" layoutX="111.0" layoutY="270.0" prefHeight="25.0" prefWidth="119.0"
+               promptText="Weight"/>
+    <TextField fx:id="priceTF" layoutX="270.0" layoutY="270.0" prefHeight="25.0" prefWidth="119.0" promptText="Price"/>
+    <ComboBox fx:id="deliveryCompaniesCB" layoutX="160.0" layoutY="64.0" prefHeight="25.0" prefWidth="180.0"
+              promptText="Choose delivery company"/>
+    <DatePicker fx:id="shippingDateCalendar" layoutX="157.0" layoutY="311.0" prefHeight="25.0" prefWidth="187.0"
+                promptText="Choose date of shipping"/>
+
+</AnchorPane>
