@@ -1,6 +1,6 @@
 package controllers;
 
-import Utils.WindowUtils;
+import utils.WindowUtils;
 import delivery.Package;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;

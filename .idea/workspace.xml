@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a3137d3-81a3-4e12-b629-32ab950e578f" name="Default Changelist" comment="New pictures uploaded, and names of variables changed" />
+    <list default="true" id="8a3137d3-81a3-4e12-b629-32ab950e578f" name="Default Changelist" comment="New pictures uploaded, and names of variables changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utils/WindowUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/WindowUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/MainWindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/MainWindowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/NewUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/NewUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/PackageInformationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/PackageInformationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/PackageWindowController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/PackageWindowController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/WarningDialogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/WarningDialogController.java" afterDir="false" />
+    </list>
     <list id="a5c9dc28-e39f-443f-ba87-f8855e660d97" name="Revert &quot;New classes added and packages&quot;" comment="Revert &quot;New classes added and packages&quot;&#10;&#10;This reverts commit 02cd23ff" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -299,7 +308,9 @@
       <workItem from="1578956580226" duration="487000" />
       <workItem from="1579011012329" duration="35000" />
       <workItem from="1579019187393" duration="446000" />
-      <workItem from="1579019653096" duration="293000" />
+      <workItem from="1579019653096" duration="490000" />
+      <workItem from="1579020148812" duration="853000" />
+      <workItem from="1579447881676" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="Screenshots package added with &quot;.png&quot; files">
       <created>1578676260867</created>
@@ -336,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578774022076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Screenshot fix">
+      <created>1579020679141</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579020679141</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,7 +415,8 @@
     <MESSAGE value="Screenshots package added with &quot;.png&quot; files" />
     <MESSAGE value="New classes added and packages" />
     <MESSAGE value="New pictures uploaded, and names of variables changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="New pictures uploaded, and names of variables changed" />
+    <MESSAGE value="Screenshot fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screenshot fix" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>

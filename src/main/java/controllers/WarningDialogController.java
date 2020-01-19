@@ -1,6 +1,6 @@
 package controllers;
 
-import Utils.WindowUtils;
+import utils.WindowUtils;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
